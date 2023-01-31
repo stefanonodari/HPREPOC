@@ -1,0 +1,6 @@
+[submodule "HPsubUno"]
+	path = HPsubUno
+	url = https://github.com/stefanonodari/HPsubUno
+[submodule "HPsubDue"]
+	path = HPsubDue
+	url = https://github.com/stefanonodari/HPsubDue
